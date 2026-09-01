@@ -3,6 +3,19 @@
     <channel>
         <title>FamilienBH</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Tue, 01 Sep 2026 23:16:22 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/familienbh-releases/main/FamilienBH-1.0.2.dmg" length="2113354" type="application/octet-stream" sparkle:edSignature="QK5evOJEp/ZXNBmSWOAtGAeadfnb70NHKmnCuM9ILqMuy9QQ4KKqTP/8jKuIhZHen03OlrUaHiikynLGOrvQDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/familienbh-releases/main/FamilienBH3-2.delta" sparkle:deltaFrom="2" length="31970" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="J2WEw+y6p525tW21CoddTDE7Pt+AepsFhzOdYxKS068M69bSnLnMPMrpfr8biQTQS2xpF9Gf5tejqLiG2AIxCw=="/>
+                <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/familienbh-releases/main/FamilienBH3-1.delta" sparkle:deltaFrom="1" length="31906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2hyx5yvrHMpcRH9ykwlXeiMtsET/nnGUfOeDvcIzyE2T1UxphmqkloIf83g2F9RO34trFDfGVgYedWlDIvBiBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Tue, 01 Sep 2026 23:03:28 +0200</pubDate>
             <sparkle:version>2</sparkle:version>

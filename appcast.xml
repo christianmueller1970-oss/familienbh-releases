@@ -3,6 +3,18 @@
     <channel>
         <title>FamilienBH</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Tue, 01 Sep 2026 23:03:28 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/familienbh-releases/main/FamilienBH-1.0.1.dmg" length="2113731" type="application/octet-stream" sparkle:edSignature="4oKZVcjgDE80hC9lYt3wX6l5pUcHNz8omvBWC4Gd5KVX8xyK/4Pq38pCern8zPnlVQPLi/wTpA0DO6V1BVBTDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/christianmueller1970-oss/familienbh-releases/main/FamilienBH2-1.delta" sparkle:deltaFrom="1" length="9530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ax/S05HMT7iQub6mBXMj97Zd8Wc8heBCr3ckmjoJFASm5FFyjWhPZLgxvYZgBg1g2yal+/WVLzYW91aRn+OhBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Tue, 01 Sep 2026 23:01:56 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
